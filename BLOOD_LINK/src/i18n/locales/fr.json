@@ -1,0 +1,90 @@
+{
+  "common": {
+    "bloodLink": "BloodLink",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "signOut": "Se déconnecter",
+    "welcome": "Bienvenue",
+    "email": "Email",
+    "password": "Mot de passe",
+    "fullName": "Nom complet",
+    "bloodType": "Groupe sanguin",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer"
+  },
+  "auth": {
+    "welcomeBack": "Bon retour",
+    "joinUs": "Rejoignez-nous",
+    "createAccount": "Créer un compte",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "dontHaveAccount": "Vous n'avez pas de compte ?"
+  },
+  "dashboard": {
+    "notifications": {
+      "title": "Préférences de notification",
+      "enabled": "Notifications activées",
+      "disabled": "Notifications désactivées"
+    },
+    "bloodInfo": {
+      "title": "Information sur le groupe sanguin",
+      "description": "Votre groupe sanguin est précieux ! Nous vous informerons lorsque des dons seront nécessaires."
+    },
+    "compatibility": {
+      "title": "Guide de compatibilité sanguine",
+      "canDonateTo": "Vous pouvez donner à :",
+      "canReceiveFrom": "Vous pouvez recevoir de :"
+    },
+    "donations": {
+      "title": "Historique des dons",
+      "addDonation": "Ajouter un don",
+      "noDonations": "Pas encore d'historique de don. Commencez votre parcours aujourd'hui !",
+      "nextEligible": "Prochaine date de don possible :",
+      "defaultLocation": "Centre de don du sang"
+    }
+  },
+  "emergency": {
+    "urgentNeed": "Besoin urgent de sang",
+    "respond": "Répondre à la demande",
+    "critical": "Critique",
+    "urgent": "Urgent",
+    "moderate": "Modéré",
+    "contactHospital": "Contacter l'hôpital",
+    "shareAlert": "Partager l'alerte"
+  },
+  "education": {
+    "categories": {
+      "guide": "Guide",
+      "faq": "FAQ",
+      "article": "Article",
+      "video": "Vidéo"
+    },
+    "readMore": "Lire plus",
+    "popularTopics": "Sujets populaires",
+    "recentlyViewed": "Vus récemment",
+    "relatedContent": "Contenu associé"
+  },
+  "admin": {
+    "dashboard": "Tableau de bord administrateur",
+    "createAlert": "Créer une alerte de pénurie",
+    "stats": "Statistiques des groupes sanguins",
+    "location": {
+      "title": "Couverture géographique",
+      "serving": "Dessert actuellement :",
+      "activeDonors": "Donneurs actifs dans la zone :"
+    },
+    "alert": {
+      "urgency": "Niveau d'urgence",
+      "message": "Message",
+      "expiresIn": "Expire dans (heures)",
+      "create": "Créer l'alerte",
+      "low": "Faible",
+      "medium": "Moyen",
+      "high": "Élevé"
+    }
+  },
+  "theme": {
+    "light": "Mode clair",
+    "dark": "Mode sombre"
+  }
+}

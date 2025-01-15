@@ -1,0 +1,90 @@
+{
+  "common": {
+    "bloodLink": "BloodLink",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "welcome": "Welcome",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "bloodType": "Blood Type",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "joinUs": "Join Us",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "dashboard": {
+    "notifications": {
+      "title": "Notification Preferences",
+      "enabled": "Notifications Enabled",
+      "disabled": "Notifications Disabled"
+    },
+    "bloodInfo": {
+      "title": "Blood Type Information",
+      "description": "Your blood type is valuable! We'll notify you when donations are needed."
+    },
+    "compatibility": {
+      "title": "Blood Compatibility Guide",
+      "canDonateTo": "You can donate to:",
+      "canReceiveFrom": "You can receive from:"
+    },
+    "donations": {
+      "title": "Donation History",
+      "addDonation": "Add Donation",
+      "noDonations": "No donation history yet. Start your journey today!",
+      "nextEligible": "Next eligible donation date:",
+      "defaultLocation": "Blood Donation Center"
+    }
+  },
+  "emergency": {
+    "urgentNeed": "Urgent Blood Need",
+    "respond": "Respond to Request",
+    "critical": "Critical",
+    "urgent": "Urgent",
+    "moderate": "Moderate",
+    "contactHospital": "Contact Hospital",
+    "shareAlert": "Share Alert"
+  },
+  "education": {
+    "categories": {
+      "guide": "Guide",
+      "faq": "FAQ",
+      "article": "Article",
+      "video": "Video"
+    },
+    "readMore": "Read More",
+    "popularTopics": "Popular Topics",
+    "recentlyViewed": "Recently Viewed",
+    "relatedContent": "Related Content"
+  },
+  "admin": {
+    "dashboard": "Hospital Admin Dashboard",
+    "createAlert": "Create Shortage Alert",
+    "stats": "Blood Type Statistics",
+    "location": {
+      "title": "Location Coverage",
+      "serving": "Currently serving:",
+      "activeDonors": "Active donors in area:"
+    },
+    "alert": {
+      "urgency": "Urgency Level",
+      "message": "Message",
+      "expiresIn": "Expires In (hours)",
+      "create": "Create Alert",
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    }
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  }
+}
